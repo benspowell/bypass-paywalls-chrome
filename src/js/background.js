@@ -68,6 +68,7 @@ const remove_cookies = [
 'chicagobusiness.com',
 'demorgen.be',
 'denverpost.com',
+'dispatch.com',
 'economist.com',
 'ed.nl',
 'examiner.com.au',
